@@ -3,7 +3,7 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-Surname(s) / First name(s): **Write down your full name here**
+Surname(s) / First name(s): **Stella Gu**
 
 Email(s): [gus46(at)mcmaster(dot)ca](mailto:gus46@mcmaster.ca)
 
@@ -14,17 +14,19 @@ Date of birth: December 17, 2003
 I am a first year student studying computer science at McMaster University
 
 
-
-```markdown
 ### List of hobbies:
 
+```markdown
 * Coding
-  * Elm
-  * Haskell
-    * Stack
-    * ghc
-* Biking
-* Hiking
+  * Java
+  * Python
+* Hanging out with Friends
+* Sports
+    * Skiing
+    * Vollyeball
+* Games
+    * Sky
+    * Valorant
 ```
 
 ### Find me here
@@ -32,13 +34,13 @@ I am a first year student studying computer science at McMaster University
 <table>
     <tr>
         <td>
-            <a href="https://github.com/yourname" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
+            <a href="https://github.com/Stella-Gu" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
-            <a href="https://linkedin.com/youraccount" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
+            <a href="https://www.linkedin.com/in/stella-gu-21067a212/" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
         </td>
         <td>
-            <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-twitter-square fa-lg"></i> Twitter</a>
+            <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i> Twitter</a>
         </td>
     </tr>
 </table>
@@ -51,19 +53,17 @@ I am a first year student studying computer science at McMaster University
 
 # Eduction
 
-* (1983-Forever) - Student 
+* (2021-Now) - McMaster Student
 
 ## Technical Skills
 
 ### Programming Languages
 
-* Elm
+* Java
+* Python
 
 ### My professional experiences
 
 ```markdown
-1. (2006-2007) Software Developer
-2. (2007-2010) Project Leader
-3. (2010-2015) IT Manager
-4. (2-15- Now) Product Mangager
+1. Yes
 ```
