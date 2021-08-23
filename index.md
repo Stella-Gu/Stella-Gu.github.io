@@ -5,13 +5,13 @@
 ## Personal Information
 Surname(s) / First name(s): **Write down your full name here**
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [gus46(at)mcmaster(dot)ca](mailto:gus46@mcmaster.ca)
 
-Date of birth: Write your date of birth here
+Date of birth: December 17, 2003
 
 ### About Me
 
-Write a few sentences describing you the best.
+I am a first year student studying computer science at McMaster University
 
 
 
