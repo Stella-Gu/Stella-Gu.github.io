@@ -34,13 +34,16 @@ I am a first year student studying computer science at McMaster University
 <table>
     <tr>
         <td>
-            <a href="https://github.com/Stella-Gu" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
+            <a href="https://github.com/Stella-Gu" target="blank"><i class="fab fa-github fa-lg"></i> Stella-Gu</a>
         </td>
         <td>
-            <a href="https://www.linkedin.com/in/stella-gu-21067a212/" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
+            <a href="https://www.linkedin.com/in/stella-gu-21067a212/" target="blank"><i class="fab fa-linkedin fa-lg"></i> Stella Gu</a>
         </td>
         <td>
-            <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i> Twitter</a>
+            <a href="https://www.youtube.com/channel/UC6NqBvwkPs07OJ7uaZHf0XA" target="blank"><i class="fab fa-youtube fa-lg"></i> Kirina Kei</a>
+        </td>
+        <td>
+            <a href="https://www.instagram.com/xd_stella.exe/" target="blank"><i class="fab fa-instagram fa-lg"></i> xd_stella.exe</a>
         </td>
     </tr>
 </table>
