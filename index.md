@@ -23,7 +23,7 @@ I am a first year student studying computer science at McMaster University
 * Hanging out with Friends
 * Sports
     * Skiing
-    * Vollyeball
+    * Volleyball
 * Games
     * Sky
     * Valorant
