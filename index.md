@@ -67,10 +67,8 @@ I am a first year student studying computer science at McMaster University
 
 ### My professional experiences
 
-[//]: # ```markdown
 1. McMaster EMBER Hackathon (1st place)
 * Created an Elm application to help persuade people with side-effects hesitancy towards the COVID-19 vaccine to get the vaccine. 
 <a href="https://macoutreach.rocks/share/005096c5" target="blank"><</i>Elm application website</a>
 2. Queen's Computing Challenge
 * Created a program that would help users reach their help goals
-[//]: # ```
