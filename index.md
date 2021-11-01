@@ -18,14 +18,13 @@ I am a first year student studying computer science at McMaster University
 
 ```markdown
 * Coding
-  * Java
-  * Python
+  * Game Development
 * Hanging out with Friends
 * Sports
     * Skiing
     * Volleyball
 * Games
-    * Sky
+    * Sky: Children of the Light
     * Valorant
 ```
 
@@ -48,15 +47,15 @@ I am a first year student studying computer science at McMaster University
     </tr>
 </table>
 
-* <i class="fas fa-file fa-lg"></i> You can also download my resume [here](cv.pdf)
+[//]: # * <i class="fas fa-file fa-lg"></i> You can also download my resume [here](cv.pdf)
 
-### My photo gallery
+[//]: # ### My photo gallery
 
-[Have a look at my photo gallery](/photo.md)
+[//]: # [Have a look at my photo gallery](/photo.md)
 
 # Eduction
-
-* (2021-Now) - McMaster Student
+* (2017-2021) - AY Jackson Secondary School 
+* (2021-Present) - B.S.c, Computer Science McMaster University 
 
 ## Technical Skills
 
@@ -64,9 +63,14 @@ I am a first year student studying computer science at McMaster University
 
 * Java
 * Python
+* Haskell
 
 ### My professional experiences
 
 ```markdown
-1. Yes
+1. McMaster EMBER Hackathon (1st place)
+* Created an Elm application to help persuade people with side-effects hesitancy towards the COVID-19 vaccine to get the vaccine. 
+<a href="https://macoutreach.rocks/share/005096c5" target="blank"><</i>Elm application website</a>
+2. Queen's Computing Challenge
+* Created a program that would help users reach their help goals
 ```
