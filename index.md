@@ -64,11 +64,12 @@ I am a first year student studying computer science at McMaster University
 * Java
 * Python
 * Haskell
+* Elm
 
 ### My professional experiences
 
 1. McMaster EMBER Hackathon (1st place)
-* Created an Elm application to help persuade people with side-effects hesitancy towards the COVID-19 vaccine to get the vaccine. 
+* Created an Elm application designed to help reduce COVID-19 vaccine side-effects hesitancy.
 <a href="https://macoutreach.rocks/share/005096c5" target="blank">Elm application website</a>
-2. Queen's Computing Challenge
-* Created a program that would help users reach their help goals
+2. Queen's Computing Challenge: Healthiest Fast Food
+* Created a program that would help users reach their health goals
