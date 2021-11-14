@@ -47,7 +47,7 @@ I am a first year student studying computer science at McMaster University
     </tr>
 </table>
 
-[//]: # * <i class="fas fa-file fa-lg"></i> You can also download my resume [here](Resume.pdf)
+* <i class="fas fa-file fa-lg"></i> You can also download my resume [here](Resume.pdf)
 
 [//]: # ### My photo gallery
 
